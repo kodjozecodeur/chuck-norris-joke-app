@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         centerTitle: true,
         title: Text(
-          "Dad Jokes Generator",
+          "Chuck Norris Jokes",
         ),
         backgroundColor: Color(0xFF3F51B4),
         foregroundColor: Color(0xFFFFFFFF),

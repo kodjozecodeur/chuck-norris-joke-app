@@ -1,16 +1,19 @@
-# dad_jokes_app
 
-A new Flutter project.
+# Chuck Norris Jokes App
+As a big fan of Chuck Norris, it's always a delight to have some jokes about him
+This Flutter application fetches and displays random jokes about the legendary Chuck Norris from an external API.
 
-## Getting Started
+## API Reference
 
-This project is a starting point for a Flutter application.
+#### Get all items
 
-A few resources to get you started if this is your first Flutter project:
+```http
+  GET https://api.chucknorris.io/jokes/random
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Demo
+
+https://i.postimg.cc/vTc88cWy/screenshot.png
+
